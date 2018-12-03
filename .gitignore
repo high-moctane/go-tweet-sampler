@@ -13,3 +13,6 @@
 
 # go dep vendor directory
 vendor/
+
+# Configuration file
+config.json
